@@ -25,6 +25,10 @@
   height: auto;
 }
 
+.photo-gallery-row {
+  padding-top: 15px !important;
+}
+
 .header-row {
   margin-bottom: 15px;
   padding-bottom: 0px !important
