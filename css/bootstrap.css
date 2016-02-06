@@ -26,7 +26,7 @@
 }
 
 .photo-gallery-row {
-  padding-top: 15px !important;
+  padding-top: 0px !important;
 }
 
 .header-row {
@@ -119,6 +119,11 @@
   border: 4px solid #eee;
   -webkit-box-shadow: 5px 5px 10px #989898;
   box-shadow: 5px 5px 10px #989898;
+}
+
+.vertical-img{
+    margin-bottom: 100px;
+    margin-top: 35px;
 }
 
 .alert-danger {
